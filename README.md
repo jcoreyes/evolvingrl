@@ -1,5 +1,5 @@
 # evolvingrl
-Supplementary Data for Evolving Reinforcement Learning Algorithms
+Supplementary Data for [Evolving Reinforcement Learning Algorithms ](https://arxiv.org/abs/2101.03958)
 
 This dataset contains 1000 loss graphs from two experiments: 500 unique graphs
 learned from scratch, and 500 unique graphs seeded by the DQN loss.
